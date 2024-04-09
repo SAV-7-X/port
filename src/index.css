@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#about
+{
+    /* background: linear-gradient(rgba(0, 0, 0, 0.455),rgba(255, 25, 25, 0.4)); */
+
+   
+    /* width: 100%; */
+    /* background-image: black; */
+    mix-blend-mode: multiply;
+    /* height: 100vh; */
+    margin: 0;
+    padding: 0;
+}
+#about .image
+{
+    /* background: url('./assets/thunderstorm-3625405_1280.jpg');
+    background-blend-mode: multiply; */
+}

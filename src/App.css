@@ -1,0 +1,13 @@
+body
+{
+  /* background-image: linear-gradient(rgba(0, 0, 0, 0.464),rgba(0, 0, 0, 0.437)), linear-gradient(to top, #f43b47 0%, #453a94 100%); */
+  /* background: linear-gradient(rgba(0, 0, 0, 0.867),rgba(0, 0, 0, 0.845)), url("./assets/thunderstorm-3625405_1280.jpg"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: white;
+  height: 100vh;
+  width: 100%;
+  z-index: 10;
+  /* filter: brightness(500%); */
+  color: #0a0258;
+}
