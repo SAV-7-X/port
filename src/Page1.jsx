@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Tilt } from 'react-tilt';
-import picture from './assets/hero2.jpeg';
+import picture from './assets/hero8.png';
 import { MdCode, MdDesignServices, MdWorkOutline } from 'react-icons/md';
 
 const AboutMe = () => {
