@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react';
 import { motion } from 'framer-motion';
 import Typed from 'typed.js';
-import hero from './assets/hero5.png';
+import hero from './assets/hero6.jpg';
 import { Tilt } from 'react-tilt';
 import Navbar from './Navbar';
 import Background from './Background';
